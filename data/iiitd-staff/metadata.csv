@@ -1,0 +1,22 @@
+metadata
+person_id,gender,age,height,weight,diabetes medication,diabetes,blood glucose
+0,male,34,170,65,no,no,80.4
+1,female,25,157,58,no,no,82.64
+2,female,38,165,68,no,no,75.76
+3,male,39,177,82,no,no,82.89
+4,female,34,162,65,no,no,81.21
+5,female,34,154,68,no,no,80
+6,female,30,165,60,no,no,94.2
+7,male,44,177,72,no,no,86.78
+9,female,32,157,58,no,no,88.9
+10,male,40,185,85,no,no,88.22
+11,male,46,168,58,no,no,88
+12,male,33,175,83,no,no,82.6
+13,male,43,167,67,no,no,79.5
+14,female,36,162,73,no,no,75.5
+15,male,28,170,66,no,no,108
+16,male,30,177,80,yes,type-2,175
+17,male,34,182,75,no,no,82.17
+18,male,30,176,73,no,no,87.99
+19,male,34,167,58,no,no,85.79
+20,female,25,160,53,no,no,81.78
